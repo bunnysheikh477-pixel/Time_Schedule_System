@@ -1,0 +1,34 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Next.js / Node.js
+node_modules/
+.next/
+out/
+
+# Build files
+dist/
+build/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# Uploaded/generated files
+storage/
+uploads/
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
